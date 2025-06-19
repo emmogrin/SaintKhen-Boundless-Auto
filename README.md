@@ -50,7 +50,7 @@ You can run this on **any free VPS or cloud server** (even the cheapest ones).
 
 ## ⚙️ Installation Steps
 
-### 1. Connect to your server
+### 1. Connect to your server (not really necessary on vps or personal owned pc)
 
 ```bash
 ssh root@your-server-ip
